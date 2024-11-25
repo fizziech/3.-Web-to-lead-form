@@ -1,7 +1,4 @@
 let captchaFlag = false;
-
-
-
 function beforeSubmit(event){
     if(captchaFlag){
 

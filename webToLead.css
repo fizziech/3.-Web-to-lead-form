@@ -38,3 +38,16 @@ form{
     margin-top: 15px;
     justify-content: center;
 }
+.linkToMain{
+    text-decoration: none;
+}
+.redirectButton{
+ 
+    background-color: #0070d2; 
+            color: white; border: none; padding: 10px 20px; 
+            border-radius: 5px; cursor: pointer;
+            display: flex;
+            margin: auto;
+
+
+}
